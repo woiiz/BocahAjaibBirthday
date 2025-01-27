@@ -6,7 +6,7 @@
    ```bash
    git clone https://github.com/rheinatamara/birthday_website_mobile.git
    
-   cd relationship_website_mobile
+   cd birthday_website_mobile
    ```
 2. Install dependencies
    ```bash
