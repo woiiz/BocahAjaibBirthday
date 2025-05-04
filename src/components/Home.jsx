@@ -6,8 +6,8 @@ function Home() {
     const [visibleCount, setVisibleCount] = useState(1)
     const navigate = useNavigate()
     const sentences = [
-    "Hi John Doe",
-    "I have something to show you:)"
+    "Hi Ardini ",
+    "ada benda yang nak ditunjuk kepada Bocah Ajaib yang noob:)"
   ]
 
   const handleClick = () => {
