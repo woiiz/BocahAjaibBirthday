@@ -47,7 +47,7 @@ function Card() {
             <p>
               Ceyy saja aje berfalsafah walaupun tak betul , happy beranak sekali lagi 😘
             </p>
-            <p className="signed">Jane Doe</p>
+            <p className="signed">Irfan Zafwan</p>
           </div>
         </div>
 
