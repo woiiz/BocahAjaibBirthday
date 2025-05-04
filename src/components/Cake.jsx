@@ -12,7 +12,7 @@ function Cake() {
     // Automatically blow out candles after 10 seconds
     const timer = setTimeout(() => {
       setCandlesBlownOut(true);
-    }, 10000);
+    }, 15000);
 
     // Cleanup timer on unmount
     return () => clearTimeout(timer);
