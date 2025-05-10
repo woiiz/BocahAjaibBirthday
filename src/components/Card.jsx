@@ -42,12 +42,12 @@ function Card() {
               Semoga Apa yang awak kejar dalam hidup awak akan dapat,
             </p>
             <p>
-             Tak kisah lah apa yang dikejar diantara cita cita atau cinta cinta,Semakin Tua kita,semakin banyak masalah yang akan datang , semoga kamu tetap tabah
+             Tak kisah lah apa yang dikejar diantara cita cita mahupun cinta cinta,Semakin Tua kita,semakin banyak masalah yang akan datang , semoga kamu tetap kuat
             </p>
             <p>
-              Ceyy saja aje berfalsafah walaupun tak betul , happy beranak sekali lagi 😘
+              Em Atapu,happy beranak sekali lagi 😘
             </p>
-            <p className="signed">Irfan Zafwan</p>
+            <p className="signed">IpanOpi</p>
           </div>
         </div>
 
