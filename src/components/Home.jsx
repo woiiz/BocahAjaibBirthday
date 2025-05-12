@@ -7,7 +7,7 @@ function Home() {
     const navigate = useNavigate()
     const sentences = [
     "Hi Ardini ",
-    "ada benda yang nak ditunjuk kepada Bocah Ajaib yang noob:)"
+    "Si Bocah ajaib:)"
   ]
 
   const handleClick = () => {
